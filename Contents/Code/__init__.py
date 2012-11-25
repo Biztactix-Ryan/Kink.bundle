@@ -52,7 +52,7 @@ class KinkAgent(Agent.Movies):
 
     metadata.content_rating = 'XXX'
     metadata.studio = 'Kink.com'
-    # metadata.genres = None
+    metadata.genres = series
 
     # Release Date
     try:
